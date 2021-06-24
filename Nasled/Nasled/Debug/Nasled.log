@@ -1,0 +1,3 @@
+﻿  Nasled.cpp
+C:\Users\vika-\source\repos\Nasled\Nasled\Nasled.cpp(87,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Nasled.vcxproj -> C:\Users\vika-\source\repos\Nasled\Debug\Nasled.exe
